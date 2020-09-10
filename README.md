@@ -1,1 +1,1 @@
-# mimiJoyce-gads-2020-project Submission.
+# mimiJoyce-GADS-2020-project Submission.
